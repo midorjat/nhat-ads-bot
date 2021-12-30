@@ -1,0 +1,74 @@
+[
+  [
+    "#txtProductTitle",
+    "Bán nhà mặt phố. Gia đình mình kẹt cần sang mặt tiền đường 297, P.Phước Long B, Quận 9 giá sốc"
+  ],
+  [
+    "#hddVipType",
+    5
+  ],
+  [
+    "#txtEndDate",
+    "2021-12-13"
+  ],
+  [
+    "#txtDescription",
+    "Bán nhà mặt phố. Gia đình mình kẹt cần sang mặt tiền đường 297, P.Phước Long B, Quận 9 giá sốc. Do tôi kinh doanh nhiều lĩnh vực không có thời gian quản lý nên cần bán lại cho khách thiện chí mua kinh doanh hoặc đầu tư.\n* Dễ dàng di chuyển sang quận 2, quận 7, TP Thủ Đức.\n* Hiện trạng: nhà cấp 4, dễ dàng xây mới, 2 phòng ngủ\n* Cách Mega Market 1km, Tops Market 5km."
+  ],
+  [
+      "#ddlProductType",
+      1
+  ],
+  [
+    "#hddProductType",
+    38
+  ],
+  [
+    "#hddProductCate",
+    163
+  ],
+  [
+    "#hddCity",
+    "SG"
+  ],
+  [
+    "#hddDistrict",
+    61
+  ],
+  [
+    "#txtAddress",
+    "đường 297, P.Phước Long B, Quận 9"
+  ],
+  [
+    "#txtArea",
+    "280"
+  ],
+  [
+    "#txtPrice",
+    "197.5"
+  ],
+  [
+    "#hddPriceType",
+    5
+  ],
+  [
+    "#txtBrName",
+    "Trần Minh Nhật"
+  ],
+  [
+    "#txtBrAddress",
+    "537 Nguyễn Duy Trinh, Bình Trưng Tây, Quận 2, Hồ Chí Minh, Việt Nam"
+  ],
+  [
+    "#txtBrPhone",
+    "0987817951"
+  ],
+  [
+    "#txtBrMobile",
+    "0987817951"
+  ],
+  [
+    "#txtBrEmail",
+    "minnhat68@gmail.com"
+  ]
+]
